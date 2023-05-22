@@ -1,4 +1,4 @@
-([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74B1A&background=FFDCCE00&center=true&vCenter=true&width=435&lines=Mega+java+developyr+TG%3A+%40Fruzz1)](https://t.me/Fruzz1)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74B1A&background=FFDCCE00&center=true&vCenter=true&width=435&lines=Mega+java+developyr+TG%3A+%40Fruzz1)](https://t.me/Fruzz1)
 
 <!--
 ### Hi there 👋
